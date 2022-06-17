@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Patrice/Desktop/KODAGE/APPS/HabitTracker/app/src/main/res/drawable-v24/app_background.xml" value="0.121" />
+        <entry key="..\:/Users/Patrice/Desktop/KODAGE/APPS/HabitTracker/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.229" />
+        <entry key="..\:/Users/Patrice/Desktop/KODAGE/APPS/HabitTracker/app/src/main/res/drawable/beverage_selected.xml" value="0.272" />
+        <entry key="..\:/Users/Patrice/Desktop/KODAGE/APPS/HabitTracker/app/src/main/res/drawable/fast_food_selected.xml" value="0.272" />
+        <entry key="..\:/Users/Patrice/Desktop/KODAGE/APPS/HabitTracker/app/src/main/res/drawable/fastfood_selected.xml" value="0.1765" />
+        <entry key="..\:/Users/Patrice/Desktop/KODAGE/APPS/HabitTracker/app/src/main/res/drawable/fitness_selected.xml" value="0.14" />
+        <entry key="..\:/Users/Patrice/Desktop/KODAGE/APPS/HabitTracker/app/src/main/res/drawable/ic_add.xml" value="0.229" />
+        <entry key="..\:/Users/Patrice/Desktop/KODAGE/APPS/HabitTracker/app/src/main/res/drawable/ic_add_icon.xml" value="0.229" />
+        <entry key="..\:/Users/Patrice/Desktop/KODAGE/APPS/HabitTracker/app/src/main/res/drawable/ic_baseline_directions_run_24.xml" value="0.14" />
+        <entry key="..\:/Users/Patrice/Desktop/KODAGE/APPS/HabitTracker/app/src/main/res/drawable/ic_beverage.xml" value="0.272" />
+        <entry key="..\:/Users/Patrice/Desktop/KODAGE/APPS/HabitTracker/app/src/main/res/drawable/ic_brunning.xml" value="0.14" />
+        <entry key="..\:/Users/Patrice/Desktop/KODAGE/APPS/HabitTracker/app/src/main/res/drawable/ic_calendar.xml" value="0.14" />
+        <entry key="..\:/Users/Patrice/Desktop/KODAGE/APPS/HabitTracker/app/src/main/res/drawable/ic_delete.xml" value="0.14" />
+        <entry key="..\:/Users/Patrice/Desktop/KODAGE/APPS/HabitTracker/app/src/main/res/drawable/ic_fast_food.xml" value="0.1765" />
+        <entry key="..\:/Users/Patrice/Desktop/KODAGE/APPS/HabitTracker/app/src/main/res/drawable/ic_launcher_background.xml" value="0.229" />
+        <entry key="..\:/Users/Patrice/Desktop/KODAGE/APPS/HabitTracker/app/src/main/res/drawable/ic_mood_off.xml" value="0.14" />
+        <entry key="..\:/Users/Patrice/Desktop/KODAGE/APPS/HabitTracker/app/src/main/res/drawable/ic_no_phone.xml" value="0.14" />
+        <entry key="..\:/Users/Patrice/Desktop/KODAGE/APPS/HabitTracker/app/src/main/res/drawable/ic_outline_beverage.xml" value="0.272" />
+        <entry key="..\:/Users/Patrice/Desktop/KODAGE/APPS/HabitTracker/app/src/main/res/drawable/ic_outline_fastfood.xml" value="0.1485" />
+        <entry key="..\:/Users/Patrice/Desktop/KODAGE/APPS/HabitTracker/app/src/main/res/drawable/ic_outline_fitness.xml" value="0.14" />
+        <entry key="..\:/Users/Patrice/Desktop/KODAGE/APPS/HabitTracker/app/src/main/res/drawable/ic_outline_hotel.xml" value="0.14" />
+        <entry key="..\:/Users/Patrice/Desktop/KODAGE/APPS/HabitTracker/app/src/main/res/drawable/ic_outline_running.xml" value="0.14" />
+        <entry key="..\:/Users/Patrice/Desktop/KODAGE/APPS/HabitTracker/app/src/main/res/drawable/ic_outline_sleep.xml" value="0.14" />
+        <entry key="..\:/Users/Patrice/Desktop/KODAGE/APPS/HabitTracker/app/src/main/res/drawable/ic_outline_smoke.xml" value="0.14" />
+        <entry key="..\:/Users/Patrice/Desktop/KODAGE/APPS/HabitTracker/app/src/main/res/drawable/ic_outline_smoking_stop.xml" value="0.14" />
+        <entry key="..\:/Users/Patrice/Desktop/KODAGE/APPS/HabitTracker/app/src/main/res/drawable/ic_outline_sports_soccer.xml" value="0.272" />
+        <entry key="..\:/Users/Patrice/Desktop/KODAGE/APPS/HabitTracker/app/src/main/res/drawable/ic_outline_video.xml" value="0.272" />
+        <entry key="..\:/Users/Patrice/Desktop/KODAGE/APPS/HabitTracker/app/src/main/res/drawable/ic_running.xml" value="0.14" />
+        <entry key="..\:/Users/Patrice/Desktop/KODAGE/APPS/HabitTracker/app/src/main/res/drawable/ic_soccer.xml" value="0.121" />
+        <entry key="..\:/Users/Patrice/Desktop/KODAGE/APPS/HabitTracker/app/src/main/res/drawable/ic_spa.xml" value="0.227" />
+        <entry key="..\:/Users/Patrice/Desktop/KODAGE/APPS/HabitTracker/app/src/main/res/drawable/ic_sports_soccer.xml" value="0.272" />
+        <entry key="..\:/Users/Patrice/Desktop/KODAGE/APPS/HabitTracker/app/src/main/res/drawable/ic_time.xml" value="0.14" />
+        <entry key="..\:/Users/Patrice/Desktop/KODAGE/APPS/HabitTracker/app/src/main/res/drawable/ic_video.xml" value="0.1765" />
+        <entry key="..\:/Users/Patrice/Desktop/KODAGE/APPS/HabitTracker/app/src/main/res/drawable/no_phone_selected.xml" value="0.14" />
+        <entry key="..\:/Users/Patrice/Desktop/KODAGE/APPS/HabitTracker/app/src/main/res/drawable/round_button.xml" value="0.18" />
+        <entry key="..\:/Users/Patrice/Desktop/KODAGE/APPS/HabitTracker/app/src/main/res/drawable/running_selected.xml" value="0.14" />
+        <entry key="..\:/Users/Patrice/Desktop/KODAGE/APPS/HabitTracker/app/src/main/res/drawable/sleep_selected.xml" value="0.14" />
+        <entry key="..\:/Users/Patrice/Desktop/KODAGE/APPS/HabitTracker/app/src/main/res/drawable/smoking_selected.xml" value="0.14" />
+        <entry key="..\:/Users/Patrice/Desktop/KODAGE/APPS/HabitTracker/app/src/main/res/drawable/soccer_selected.xml" value="0.272" />
+        <entry key="..\:/Users/Patrice/Desktop/KODAGE/APPS/HabitTracker/app/src/main/res/drawable/videos_selected.xml" value="0.1485" />
+        <entry key="..\:/Users/Patrice/Desktop/KODAGE/APPS/HabitTracker/app/src/main/res/drawable/videos_watched.xml" value="0.272" />
+        <entry key="..\:/Users/Patrice/Desktop/KODAGE/APPS/HabitTracker/app/src/main/res/layout/activity_intro.xml" value="0.2126126126126126" />
+        <entry key="..\:/Users/Patrice/Desktop/KODAGE/APPS/HabitTracker/app/src/main/res/layout/activity_intro_screen.xml" value="0.25" />
+        <entry key="..\:/Users/Patrice/Desktop/KODAGE/APPS/HabitTracker/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Patrice/Desktop/KODAGE/APPS/HabitTracker/app/src/main/res/layout/drawable_item.xml" value="0.2" />
+        <entry key="..\:/Users/Patrice/Desktop/KODAGE/APPS/HabitTracker/app/src/main/res/layout/fragment_create_habit_item.xml" value="0.1" />
+        <entry key="..\:/Users/Patrice/Desktop/KODAGE/APPS/HabitTracker/app/src/main/res/layout/fragment_habit_list.xml" value="0.2" />
+        <entry key="..\:/Users/Patrice/Desktop/KODAGE/APPS/HabitTracker/app/src/main/res/layout/fragment_tetem.xml" value="0.2630208333333333" />
+        <entry key="..\:/Users/Patrice/Desktop/KODAGE/APPS/HabitTracker/app/src/main/res/layout/fragment_update_habit_item.xml" value="0.1" />
+        <entry key="..\:/Users/Patrice/Desktop/KODAGE/APPS/HabitTracker/app/src/main/res/layout/habit_item.xml" value="0.33" />
+        <entry key="..\:/Users/Patrice/Desktop/KODAGE/APPS/HabitTracker/app/src/main/res/layout/intro_item_page.xml" value="0.33" />
+        <entry key="..\:/Users/Patrice/Desktop/KODAGE/APPS/HabitTracker/app/src/main/res/menu/menu.xml" value="0.2630208333333333" />
+        <entry key="..\:/Users/Patrice/Desktop/KODAGE/APPS/HabitTracker/app/src/main/res/menu/nav_menu.xml" value="0.2630208333333333" />
+        <entry key="..\:/Users/Patrice/Desktop/KODAGE/APPS/HabitTracker/app/src/main/res/menu/single_item_menu.xml" value="0.2630208333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.33" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
